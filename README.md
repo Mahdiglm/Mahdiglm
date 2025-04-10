@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Mahdi / Mehti(friendly)
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C++
-- 📫 How to reach me ssddssdd1212m@gmail.com
-- 😄 Pronouns: he/him
+Focus on Life...
