@@ -221,7 +221,7 @@
     <a href="mailto:ssddssdd1212m@gmail.com" target="_blank" style="text-decoration: none; color: white;">
       <img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://www.buymeacoffee.com/mahdiglm" target="_blank" style="text-decoration: none; color: white;">
+    <a href="buymeacoffee.com/MXDI" target="_blank" style="text-decoration: none; color: white;">
       <img src="https://img.shields.io/badge/Support%20Me-ffdd00?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
     </a>
   </div>
