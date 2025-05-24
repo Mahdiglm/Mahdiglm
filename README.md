@@ -7,11 +7,9 @@
   <a href="https://github.com/mahdiglm?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-Repositories-blue?style=flat&labelColor=gray" />
   </a>
-  <img src="https://img.shields.io/badge/Twitter-%40mahdiglm-blue?style=flat&labelColor=gray" />
-  <a href="https://arc.canmi.icu">
-    <img src="https://img.shields.io/badge/Blog-Hexo-blue?style=flat&labelColor=gray" />
-  </a>
-  <img src="https://img.shields.io/badge/Love-You-blue?style=flat&labelColor=gray" />
+  <img src="https://img.shields.io/badge/Working%20on-DRAUGR-red?style=flat&labelColor=gray" />
+  <img src="https://img.shields.io/badge/Website-Soon-lightgrey?style=flat&labelColor=gray" />
+  <img src="https://img.shields.io/badge/Focus-Life-green?style=flat&labelColor=gray" />
 </p>
 
 <div align="center">
