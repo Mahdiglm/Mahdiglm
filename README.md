@@ -1,34 +1,4 @@
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="40">
-  GitHub Contribution Overview
-</h2>
-
-<p align="center">
-  <a href="https://skyline.github.com/mahdiglm/2023" title="2023 GitHub Contributions">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdiglm&bg_color=0D1117&color=E05397&line=E05397&point=FFFFFF&area=true&area_color=E05397&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%" alt="Contribution Graph">
-  </a>
-  <sup align="center">Click to see a 3D view of my GitHub contributions</sup>
-</p>
-
-<h2 align="center">
-  GitHub Performance Analytics
-</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahdiglm&theme=radical&row=1&column=7&margin-w=15&no-bg=true&no-frame=true" width="100%" alt="Trophy" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdiglm&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Streak" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahdiglm&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Stats" width="100%" />
-</p>
-
----
-
-<h2 align="center">More Stats & Visuals</h2>
+<h2 align="center">Stats & Visuals</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahdiglm" />
@@ -63,4 +33,15 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahdiglm/mahdiglm/output/github-contribution-grid-snake.svg">
     <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/mahdiglm/mahdiglm/output/github-contribution-grid-snake.svg">
   </picture>
+</p>
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="40">
+  GitHub Contribution Overview
+</h2>
+
+<p align="center">
+  <a href="https://skyline.github.com/mahdiglm/2023" title="2023 GitHub Contributions">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdiglm&bg_color=0D1117&color=E05397&line=E05397&point=FFFFFF&area=true&area_color=E05397&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%" alt="Contribution Graph">
+  </a>
 </p>
