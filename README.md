@@ -33,8 +33,8 @@
   </picture>
 </p>
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="40">
+<h2 align="center" style="color: #E6EDF3;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="40" alt="Milky Way">
   GitHub Contribution Overview
 </h2>
 
