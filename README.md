@@ -21,9 +21,9 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahdiglm&theme=dracula&exclude=html,Gerber%20Image" alt="Most Commit Language" style="max-width: 45%; min-width: 300px;" />
 </div>
 
-<div align="center">
-  <img src="https://wakatime.com/share/@07e3a8ca-7833-4f87-8c30-3dd9391a92ad/6eb5c408-e8d2-4b6f-b96c-a46468ac74bd.svg" alt="Wakatime" style="max-width: 100%; width: 685px;">
-</div>
+<p align="center">
+  <img src="https://wakatime.com/share/@7a7ce3db-bdae-4ce6-b96e-311394809036/a05ae90a-830b-4273-acbe-5b7bf96667ba.svg" alt="WakaTime Stats" width="685" />
+</p>
 
 <p align="center">
   <picture>
