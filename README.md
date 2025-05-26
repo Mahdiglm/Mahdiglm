@@ -27,10 +27,9 @@
 
 <h2 align="center">Isometric GitHub Contributions</h2>
 
-<p align="center">
-  <img src="https://github.com/mahdiglm/mahdiglm/blob/main/isometric-commit-calendar.svg" alt="Isometric Commit Calendar" />
-</p>
-
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/mahdiglm/mahdiglm/main/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" width="100%">
+</h2>
 
 <p align="center">
   <picture>
