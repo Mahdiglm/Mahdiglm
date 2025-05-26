@@ -1,40 +1,66 @@
-<h2 align="center">Stats & Visuals</h2>
+<div align="center">
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=mahdiglm&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+    <img src="https://img.shields.io/github/stars/mahdiglm?style=for-the-badge&logo=github&color=yellow" alt="Total Stars" />
+    <img src="https://img.shields.io/github/followers/mahdiglm?style=for-the-badge&logo=github&color=blue" alt="GitHub Followers" />
+  </p>
+  
+  <p>
+    <a href="https://github.com/mahdiglm?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/Repositories-Explore-2ea44f?style=for-the-badge" alt="GitHub Repositories" />
+    </a>
+    <img src="https://img.shields.io/badge/Current_Project-DRAUGR-ff6b6b?style=for-the-badge" alt="Current Project" />
+    <img src="https://img.shields.io/badge/Website-Coming_Soon-9b59b6?style=for-the-badge" alt="Website Status" />
+  </p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Focus-Life-4ecdc4?style=for-the-badge" alt="Focus" />
+  </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahdiglm" />
-  <img src="https://img.shields.io/github/stars/mahdiglm?style=flat&label=Total%20Stars" />
-  <img src="https://img.shields.io/github/followers/mahdiglm?style=flat&label=Followers" />
-  <a href="https://github.com/mahdiglm?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Repositories-blue?style=flat&labelColor=gray" />
-  </a>
-  <img src="https://img.shields.io/badge/Working%20on-DRAUGR-red?style=flat&labelColor=gray" />
-  <img src="https://img.shields.io/badge/Website-Soon-lightgrey?style=flat&labelColor=gray" />
-  <img src="https://img.shields.io/badge/Focus-Life-green?style=flat&labelColor=gray" />
-</p>
+</div>
+
+---
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahdiglm&theme=dracula" alt="Profile Details" style="max-width: 100%; width: 685px;">
+  
+  <!-- Comprehensive Profile Card -->
+  <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahdiglm&theme=radical" alt="GitHub Profile Summary" />
+  
+  <br><br>
+  
+  <!-- Language & Commit Stats Side by Side -->
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahdiglm&theme=radical&exclude=html,Gerber%20Image" alt="Repositories per Language" />
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahdiglm&theme=radical&exclude=html,Gerber%20Image" alt="Most Commit Language" />
+  
+  <br><br>
+  
+  <!-- GitHub Stats -->
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=mahdiglm&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdiglm&theme=radical&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahdiglm&theme=dracula&exclude=html,Gerber%20Image" alt="Repos per Language" style="max-width: 45%; min-width: 300px;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahdiglm&theme=dracula&exclude=html,Gerber%20Image" alt="Most Commit Language" style="max-width: 45%; min-width: 300px;" />
+---
+
+<div align="center">
+  
+  <!-- WakaTime Stats -->
+  <img width="800" src="https://wakatime.com/share/@7a7ce3db-bdae-4ce6-b96e-311394809036/a05ae90a-830b-4273-acbe-5b7bf96667ba.svg" alt="WakaTime Coding Activity" />
+
 </div>
 
-<p align="center">
-  <img src="https://wakatime.com/share/@7a7ce3db-bdae-4ce6-b96e-311394809036/a05ae90a-830b-4273-acbe-5b7bf96667ba.svg" alt="WakaTime Stats" width="685" />
-</p>
+---
 
-<h2 align="center">Isometric GitHub Contributions</h2>
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/mahdiglm/mahdiglm/main/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" width="100%">
-</h2>
-
-<p align="center">
+<div align="center">
+  
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahdiglm/mahdiglm/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahdiglm/mahdiglm/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/mahdiglm/mahdiglm/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://raw.githubusercontent.com/mahdiglm/mahdiglm/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://raw.githubusercontent.com/mahdiglm/mahdiglm/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/mahdiglm/mahdiglm/output/github-contribution-grid-snake.svg" 
+         alt="GitHub Contribution Grid Snake Animation" width="800" />
   </picture>
-</p>
+
+</div>
