@@ -11,15 +11,28 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate Isometric Contributions
-        uses: n3r4zzurr0/isometric-contributions-canvas@v1
+      - name: Install Node.js
+        uses: actions/setup-node@v3
         with:
-          username: mahdiglm
+          node-version: '18'
 
-      - name: Commit and Push
+      - name: Clone Isometric Contributions Repo
+        run: git clone https://github.com/n3r4zzurr0/isometric-contributions.git
+
+      - name: Install dependencies
+        run: |
+          cd isometric-contributions
+          npm install
+
+      - name: Generate Isometric Contributions SVG
+        run: |
+          cd isometric-contributions
+          npx tsx src/index.ts --username mahdiglm --output ../isometric-commit-calendar.svg
+
+      - name: Commit and Push SVG
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add isometric-commit-calendar.svg
-          git commit -m "Update isometric commit calendar"
+          git commit -m "Update isometric commit calendar" || echo "No changes to commit"
           git push
