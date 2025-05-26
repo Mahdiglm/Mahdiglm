@@ -1,0 +1,25 @@
+name: Generate Isometric Commit Calendar
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # Every hour (at minute 0)
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Isometric Contributions
+        uses: n3r4zzurr0/isometric-contributions@main
+        with:
+          username: mahdiglm
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add isometric-commit-calendar.svg
+          git commit -m "Update isometric commit calendar"
+          git push
