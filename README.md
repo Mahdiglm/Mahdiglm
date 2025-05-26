@@ -25,21 +25,17 @@
   <img src="https://wakatime.com/share/@7a7ce3db-bdae-4ce6-b96e-311394809036/a05ae90a-830b-4273-acbe-5b7bf96667ba.svg" alt="WakaTime Stats" width="685" />
 </p>
 
+<h2 align="center">Isometric GitHub Contributions</h2>
+
+<p align="center">
+  <img src="https://github.com/mahdiglm/mahdiglm/blob/main/isometric-commit-calendar.svg" alt="Isometric Commit Calendar" />
+</p>
+
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahdiglm/mahdiglm/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahdiglm/mahdiglm/output/github-contribution-grid-snake.svg">
     <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/mahdiglm/mahdiglm/output/github-contribution-grid-snake.svg">
   </picture>
-</p>
-
-<h2 align="center" style="color: #E6EDF3;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="40" alt="Milky Way">
-  GitHub Contribution Overview
-</h2>
-
-<p align="center">
-  <a href="https://skyline.github.com/mahdiglm/2023" title="2023 GitHub Contributions">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdiglm&bg_color=0D1117&color=E05397&line=E05397&point=FFFFFF&area=true&area_color=E05397&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%" alt="Contribution Graph">
-  </a>
 </p>
