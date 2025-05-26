@@ -1,19 +1,30 @@
-name: Metrics
+name: Generate Isometric Commit Calendar
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight UTC
+    - cron: '0 * * * *'  # every hour
   workflow_dispatch:
 
 jobs:
-  github-metrics:
+  build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write  # allow pushing files
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: actions/checkout@v3
+
+      - name: Run lowlighter metrics action
+        uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          filename: metrics.plugin.isocalendar.svg
+          base: ""          # leave empty or set a subfolder if you want
           plugin_isocalendar: yes
+
+      - name: Commit and push updated SVG
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add metrics.plugin.isocalendar.svg
+          git commit -m "Update isometric commit calendar" || echo "No changes to commit"
+          git push
