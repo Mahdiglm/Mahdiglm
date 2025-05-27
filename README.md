@@ -41,16 +41,17 @@
 
 </div>
 
----
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mahdiglm&custom_title=My%20Recent%20GitHub%20Activity&hide_border=true&area=true&area_color=FE428E&line=FE428E&point=FE428E&color=FE428E&bg_color=00000000" 
+    alt="Contribution Graph" 
+    width="850"
+  />
+</p>
 
-<div align="center">
-  
-  <!-- WakaTime Stats -->
-  <img width="800" src="https://wakatime.com/share/@7a7ce3db-bdae-4ce6-b96e-311394809036/a05ae90a-830b-4273-acbe-5b7bf96667ba.svg" alt="WakaTime Coding Activity" />
-
-</div>
-
----
+<p align="center">
+  <img src="https://wakatime.com/share/@7a7ce3db-bdae-4ce6-b96e-311394809036/a42daf55-9a85-4cf9-a4f3-010ad2496ef8.svg" width="800" alt="WakaTime Stats"/>
+</p>
 
 <div align="center">
   
