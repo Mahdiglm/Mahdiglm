@@ -23,19 +23,16 @@
 ---
 
 <div align="center">
-  
-  <!-- Comprehensive Profile Card -->
+
   <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahdiglm&theme=radical" alt="GitHub Profile Summary" />
   
   <br><br>
-  
-  <!-- Language & Commit Stats Side by Side -->
+
   <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahdiglm&theme=radical&exclude=html,Gerber%20Image" alt="Repositories per Language" />
   <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahdiglm&theme=radical&exclude=html,Gerber%20Image" alt="Most Commit Language" />
   
   <br><br>
   
-  <!-- GitHub Stats -->
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=mahdiglm&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdiglm&theme=radical&hide_border=true" alt="GitHub Streak" />
 
